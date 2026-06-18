@@ -1,0 +1,6 @@
+{
+  "name": "Pro Accounting",
+  "description": "স্মার্ট দোকানের ডিজিটাল হিসাব খাতা - Smart digital ledger for shopkeepers and customers with intuitive accounting tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
